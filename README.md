@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning
       - Java
       - LUA
-      - CPP
+      - CPP / C#
       
 - 📫 You can reach me
       via my website https://www.teamnx.net/
