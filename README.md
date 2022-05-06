@@ -11,9 +11,9 @@
       - LUA
       - CPP / C#
       
-- 📫 You can reach me and see my other work
+- 📫 You can reach me and see my other work:
       via my website https://www.teamnx.net/
-      via my gitlab https://gitlab.nexs.dev/log
+       and via my gitlab https://gitlab.nexs.dev/log
 
 <!---
 Log-nx/Log-nx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
