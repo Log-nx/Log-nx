@@ -12,7 +12,7 @@
       - CPP / C#
       
 - 📫 You can reach me and see my other work:
-      via my website https://www.teamnx.net/
+      via my website https://teamnx.net/
        and via my gitlab https://gitlab.nexs.dev/log-nx
 
 <!---
