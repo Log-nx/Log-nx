@@ -12,14 +12,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/logiikx"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="logiikx" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=log-nx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="log-nx" /></p>
-
-![Top Langs](https://github-readme-stats-rho-rust-24.vercel.app/api/top-langs/?username=log-nx&layout=compact)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=log-nx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="log-nx" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-rho-rust-24.vercel.app/api?username=log-nx&show_icons=true&theme=radical)
+
 
 <!---
 Log-nx/Log-nx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![Top Langs](https://github-readme-stats-rho-rust-24.vercel.app/api/top-langs/?username=log-nx&layout=compact)
 --->
