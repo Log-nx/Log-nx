@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Log.</h1>
 <h3 align="center">I’m interested in - IT - Computing - Programming - Project Management - Cars - Coffee, and lots of it.</h3>
 
-- 🔭 I’m currently working on **RequiemRP & Other Projects within TeamNX**
+- 🔭 I’m currently working on **various projects.**
 
 - 👨‍💻 All of my projects are available **via my website https://teamnx.net/ and via my gitlab https://gitlab.nexs.dev/log-nx**
 
