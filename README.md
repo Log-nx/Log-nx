@@ -2,9 +2,7 @@
 <h3 align="center">I’m interested in - IT - Computing - Programming - Project Management - Cars - Coffee, and lots of it.</h3>
 
 - 🔭 I’m currently working on **various projects.**
-
 - 👨‍💻 All of my projects are available **via my website https://teamnx.net/ and via my gitlab https://gitlab.nexs.dev/log-nx**
-
 - 🌱 I’m currently learning **Lua, Java, C#, C+, and ++**
 <p> <h1 align="center" 
 
@@ -20,7 +18,6 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=Log-nx&theme=omni&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Log-nx&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Log-nx&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
