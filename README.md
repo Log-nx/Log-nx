@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various projects.**
 - 👨‍💻 All of my projects are available **via my website https://teamnx.net/ and via my gitlab https://gitlab.nexs.dev/log-nx**
-- 🌱 I’m currently learning **Lua, Java, C#, C+, and ++**
+- 🌱 I’m currently learning **Typescript, Assembly, Lua, Java, C#, C+, and ++**
 <p> <h1 align="center" 
 
 # Tools and Languages: 🖥️ </h1>
